@@ -1,0 +1,11 @@
+# Varsayılan olarak paylaşılmaması gereken dosyalar
+db.properties
+
+# Build çıktıları
+bin/
+
+# IDE dosyaları
+.classpath
+.project
+.settings/
+

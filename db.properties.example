@@ -1,0 +1,5 @@
+# örnek veritabanı yapılandırması
+db.url=jdbc:sqlserver://localhost:1433;databaseName=YourDatabase;encrypt=true;trustServerCertificate=true
+db.user=your_username
+db.password=your_password
+
