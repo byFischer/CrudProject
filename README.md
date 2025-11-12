@@ -47,7 +47,5 @@ Alternatif olarak aşağıdaki ortam değişkenlerini kullanabilirsiniz:
 2. IDE üzerinden `crudproject.CrudDesigner` sınıfını çalıştırın.
 3. Tablo ve kullanıcı arayüzü üzerinden kayıtları yönetin.
 
-## Katkı ve Lisans
 
-Bu proje tanıtım amacıyla paylaşılmıştır. Dilerseniz kendi gereksinimlerinize göre uyarlayabilir, pull request gönderebilirsiniz. Lisans bilgisi eklemek istiyorsanız `LICENSE` dosyası oluşturabilirsiniz.
 
