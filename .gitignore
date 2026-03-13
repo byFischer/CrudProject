@@ -1,11 +1,15 @@
-# Varsayılan olarak paylaşılmaması gereken dosyalar
+# Veritabanı bağlantı bilgileri - ASLA commit edilmemeli
 db.properties
 
 # Build çıktıları
 bin/
+build/
+out/
 
 # IDE dosyaları
 .classpath
 .project
 .settings/
-
+*.iml
+.idea/
+nbproject/
